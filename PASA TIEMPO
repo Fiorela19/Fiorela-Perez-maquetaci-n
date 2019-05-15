@@ -1,0 +1,31 @@
+<DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MI BIOGRAFIA</title>
+    <link rel="stylesheet" type= "text/css"href= "estilos.css" media="screen">
+</head>
+<body>
+  <header>
+    <section id="banner">
+        <h1 align="center"><i> MI AUTOBIOGRAFIA</i> </h1>
+        <div id="foto-perfil"><img src="E:\biografìa/fio.jpg" /></div>
+       
+    </section>
+  </header>
+  <nav> 
+    
+    <a href="datos.html" class="left"><span> <img src="https://saglikliyasam180.files.wordpress.com/2016/10/cropped-35293531-abstract-health-life-logo-stock-photo.jpg" class="icono"> </span> DATOS</a>
+    <a href="familia.html" class="left"><span> <img src="familia.png" class="icono"> </span> FAMILIA</a>
+    <a href="estudio.html" class="right"><span> <img src="images.jpeg" class="icono"> </span> ESTUDIO</a>
+    <a href="pasatiempo.html" class="right"><span> <img src="pasar.jpeg" class="icono"> </span>PASATIEMPOS</a>
+  </nav>
+  <main>
+    <article>
+      Estudie mi Jardin IEI San Antonio, Mi primaria IEP Santiago Apóstol y culmine de manera satisfactoria. La secundaria fue en la IES César Vallejo, bueno esta fue la etapa en la que conoci nuevos amig@s hasta el momento puedo decir que fue hermosa de excurcion fuimos a la ciudad de cusco (Quillabanba) no fue como lo hubiera deseado pero fue único, nos organizamos para hacer una amena reunión entre mis compañeros , mi promocion tiene el nombre de VALLEJIANO.<br>Mis estudios superiores los estoy cursando en la Universidad Nacional Del altiplano (UNA),la escuela profesional Ingeniería De Sistemas.
+    </article>
+    
+  </main>
+  <footer><center>Copyright © 2019 hancco velarde. All Rights Reserved.</center></footer>
+  </body>
+  </html>
