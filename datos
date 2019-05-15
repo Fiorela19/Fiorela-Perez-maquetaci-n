@@ -1,0 +1,44 @@
+<DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MI BIOGRAFIA</title>
+    <link rel="stylesheet" type= "text/css"href= "estilos.css" media="screen">
+</head>
+<body>
+  <header>
+    <section id="banner">
+        <h1 align="center"><i> MI AUTOBIOGRAFIA</i> </h1>
+        <div id="foto-perfil"><img src="E:/biografìa/fio.jpg" /></div>
+       
+    </section>
+  </header>
+  <nav> 
+    
+    <a href="datos.html" class="left"><span> <img src="https://saglikliyasam180.files.wordpress.com/2016/10/cropped-35293531-abstract-health-life-logo-stock-photo.jpg" class="icono"> </span>DATOS</a>
+    <a href="familia.html" class="left"><span> <img src="familia.png" class="icono"> </span>FAMILIA</a>
+    <a href="academico.html" class="right"><span> <img src="images.jpeg" class="icono"> </span>ESTUDIO</a>
+    <a href="pasar tiempo.html" class="right"><span> <img src="pasar.jpeg" class="icono"> </span>PASATIEMPOS</a>
+  </nav>
+  <main>
+    <article>Mis datos:
+
+      <ul>
+        <li><b>NOMBRES:</b> Fiorela </li>
+        <li><b>APELLIDO PATERNO:</b> Perez </li>
+        <li><b>APELLIDO MATERNO:</b> Mamani </li>
+        <li><b>FECHA DE NACIMIENTO:</b> 04 de marzo del 2000 </li>
+        <li><b>LUGAR DE NACIMIENTO:</b> Huancané-Huancané-Puno </li>
+        <li><b>TALLA:</b> 1.55 cm </li>
+        <li><b>PESO:</b> 57 kg </li>
+        <li><b>DNI:</b> 74429511 </li>
+        
+      </ul>
+
+    </article>
+    
+  </main>
+  <footer><center>Copyright © 2019 Perez Mamani. All Rights Reserved.</center></footer>
+
+  </body>
+  </html>
