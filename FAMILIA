@@ -1,0 +1,33 @@
+<DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MI BIOGRAFIA</title>
+    <link rel="stylesheet" type= "text/css"href= "estilos.css" media="screen">
+</head>
+<body>
+  <header> 
+    <section id="banner">
+        <h1 align="center"><i> MI AUTOBIOGRAFIA</i> </h1>
+        <div id="foto-perfil"><img src="E:/biografìa/fio.jpg" /></div>
+       
+    </section>
+  </header>
+  <nav> 
+    
+    <a href="datos.html" class="left"><span> <img src="https://saglikliyasam180.files.wordpress.com/2016/10/cropped-35293531-abstract-health-life-logo-stock-photo.jpg" class="icono"> </span>DATOS</a>
+    <a href="familia.html" class="left"><span> <img src="familia.png" class="icono"> </span>FAMILIA</a>
+    <a href="estudio.html" class="right"><span> <img src="images.jpeg" class="icono"> </span>ESTUDIO</a>
+    <a href="pasatiempos.html" class="right"><span> <img src="pasar.jpeg" class="icono"> </span> PASATIEMPOS</a>
+  </nav>
+  <main>
+    <article> Mis padres son : <br>
+    Ruth Mamani Pinto y Francisco Perez Mamani, en mi familia tengo dos hermanos de las cuales yo soy la mayor y mis her hermanos menores son, Frank Ubaldo y Cesar Emanuel.<br> Mi padres viven en la provincia de Huancané, Mi Padre se dedica a la ganadería y mi Madre es Comerciante, mi Hermanos están cursanado la primaria en la misma provincia.</br> 
+
+    </article>
+    
+  </main>
+   <footer><center>Copyright © 2019 hancco velarde. All Rights Reserved.</center></footer>
+
+  </body>
+  </html>
